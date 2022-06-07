@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>BG.png</file>
+    <file>pm.ico</file>
+    <file>icons8-minimize-window-30.png</file>
+    <file>icons8-multiply-30.png</file>
+    <file>padlock.png</file>
+  </qresource>
+</RCC>
